@@ -1,0 +1,149 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="127">
+            <item index="0" class="java.lang.String" itemvalue="httpx" />
+            <item index="1" class="java.lang.String" itemvalue="greenlet" />
+            <item index="2" class="java.lang.String" itemvalue="deprecated" />
+            <item index="3" class="java.lang.String" itemvalue="pickleshare" />
+            <item index="4" class="java.lang.String" itemvalue="marshmallow" />
+            <item index="5" class="java.lang.String" itemvalue="llama-index-embeddings-openai" />
+            <item index="6" class="java.lang.String" itemvalue="executing" />
+            <item index="7" class="java.lang.String" itemvalue="pycparser" />
+            <item index="8" class="java.lang.String" itemvalue="mccabe" />
+            <item index="9" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="10" class="java.lang.String" itemvalue="llama-index-readers-llama-parse" />
+            <item index="11" class="java.lang.String" itemvalue="pydantic" />
+            <item index="12" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="13" class="java.lang.String" itemvalue="pexpect" />
+            <item index="14" class="java.lang.String" itemvalue="pypdf" />
+            <item index="15" class="java.lang.String" itemvalue="click" />
+            <item index="16" class="java.lang.String" itemvalue="sqlalchemy" />
+            <item index="17" class="java.lang.String" itemvalue="types-setuptools" />
+            <item index="18" class="java.lang.String" itemvalue="attrs" />
+            <item index="19" class="java.lang.String" itemvalue="types-protobuf" />
+            <item index="20" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="21" class="java.lang.String" itemvalue="openai" />
+            <item index="22" class="java.lang.String" itemvalue="dataclasses-json" />
+            <item index="23" class="java.lang.String" itemvalue="jedi" />
+            <item index="24" class="java.lang.String" itemvalue="pure-eval" />
+            <item index="25" class="java.lang.String" itemvalue="regex" />
+            <item index="26" class="java.lang.String" itemvalue="asttokens" />
+            <item index="27" class="java.lang.String" itemvalue="platformdirs" />
+            <item index="28" class="java.lang.String" itemvalue="llama-index-multi-modal-llms-openai" />
+            <item index="29" class="java.lang.String" itemvalue="httpcore" />
+            <item index="30" class="java.lang.String" itemvalue="idna" />
+            <item index="31" class="java.lang.String" itemvalue="decorator" />
+            <item index="32" class="java.lang.String" itemvalue="networkx" />
+            <item index="33" class="java.lang.String" itemvalue="pluggy" />
+            <item index="34" class="java.lang.String" itemvalue="cffi" />
+            <item index="35" class="java.lang.String" itemvalue="llama-index-program-openai" />
+            <item index="36" class="java.lang.String" itemvalue="numpy" />
+            <item index="37" class="java.lang.String" itemvalue="requests" />
+            <item index="38" class="java.lang.String" itemvalue="sniffio" />
+            <item index="39" class="java.lang.String" itemvalue="llama-index-indices-managed-llama-cloud" />
+            <item index="40" class="java.lang.String" itemvalue="pytest-mock" />
+            <item index="41" class="java.lang.String" itemvalue="stack-data" />
+            <item index="42" class="java.lang.String" itemvalue="nest-asyncio" />
+            <item index="43" class="java.lang.String" itemvalue="tenacity" />
+            <item index="44" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="45" class="java.lang.String" itemvalue="types-pyyaml" />
+            <item index="46" class="java.lang.String" itemvalue="pygments" />
+            <item index="47" class="java.lang.String" itemvalue="annotated-types" />
+            <item index="48" class="java.lang.String" itemvalue="llama-index-core" />
+            <item index="49" class="java.lang.String" itemvalue="llama-index-legacy" />
+            <item index="50" class="java.lang.String" itemvalue="types-pyopenssl" />
+            <item index="51" class="java.lang.String" itemvalue="black" />
+            <item index="52" class="java.lang.String" itemvalue="pytest-asyncio" />
+            <item index="53" class="java.lang.String" itemvalue="llama-cloud" />
+            <item index="54" class="java.lang.String" itemvalue="types-requests" />
+            <item index="55" class="java.lang.String" itemvalue="pandas" />
+            <item index="56" class="java.lang.String" itemvalue="pylint" />
+            <item index="57" class="java.lang.String" itemvalue="ruff" />
+            <item index="58" class="java.lang.String" itemvalue="multidict" />
+            <item index="59" class="java.lang.String" itemvalue="isort" />
+            <item index="60" class="java.lang.String" itemvalue="yarl" />
+            <item index="61" class="java.lang.String" itemvalue="pytz" />
+            <item index="62" class="java.lang.String" itemvalue="tokenize-rt" />
+            <item index="63" class="java.lang.String" itemvalue="types-urllib3" />
+            <item index="64" class="java.lang.String" itemvalue="tiktoken" />
+            <item index="65" class="java.lang.String" itemvalue="traitlets" />
+            <item index="66" class="java.lang.String" itemvalue="joblib" />
+            <item index="67" class="java.lang.String" itemvalue="jiter" />
+            <item index="68" class="java.lang.String" itemvalue="mypy" />
+            <item index="69" class="java.lang.String" itemvalue="nltk" />
+            <item index="70" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="71" class="java.lang.String" itemvalue="pre-commit" />
+            <item index="72" class="java.lang.String" itemvalue="types-docutils" />
+            <item index="73" class="java.lang.String" itemvalue="h11" />
+            <item index="74" class="java.lang.String" itemvalue="astroid" />
+            <item index="75" class="java.lang.String" itemvalue="pydantic-core" />
+            <item index="76" class="java.lang.String" itemvalue="frozenlist" />
+            <item index="77" class="java.lang.String" itemvalue="fsspec" />
+            <item index="78" class="java.lang.String" itemvalue="llama-index-agent-openai" />
+            <item index="79" class="java.lang.String" itemvalue="filelock" />
+            <item index="80" class="java.lang.String" itemvalue="certifi" />
+            <item index="81" class="java.lang.String" itemvalue="anyio" />
+            <item index="82" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="83" class="java.lang.String" itemvalue="nodeenv" />
+            <item index="84" class="java.lang.String" itemvalue="iniconfig" />
+            <item index="85" class="java.lang.String" itemvalue="wrapt" />
+            <item index="86" class="java.lang.String" itemvalue="aiohappyeyeballs" />
+            <item index="87" class="java.lang.String" itemvalue="cryptography" />
+            <item index="88" class="java.lang.String" itemvalue="appnope" />
+            <item index="89" class="java.lang.String" itemvalue="codespell" />
+            <item index="90" class="java.lang.String" itemvalue="striprtf" />
+            <item index="91" class="java.lang.String" itemvalue="backcall" />
+            <item index="92" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="93" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="94" class="java.lang.String" itemvalue="llama-parse" />
+            <item index="95" class="java.lang.String" itemvalue="distlib" />
+            <item index="96" class="java.lang.String" itemvalue="types-deprecated" />
+            <item index="97" class="java.lang.String" itemvalue="cfgv" />
+            <item index="98" class="java.lang.String" itemvalue="distro" />
+            <item index="99" class="java.lang.String" itemvalue="pathspec" />
+            <item index="100" class="java.lang.String" itemvalue="matplotlib-inline" />
+            <item index="101" class="java.lang.String" itemvalue="ptyprocess" />
+            <item index="102" class="java.lang.String" itemvalue="mypy-extensions" />
+            <item index="103" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="104" class="java.lang.String" itemvalue="llama-index-cli" />
+            <item index="105" class="java.lang.String" itemvalue="dirtyjson" />
+            <item index="106" class="java.lang.String" itemvalue="tomlkit" />
+            <item index="107" class="java.lang.String" itemvalue="urllib3" />
+            <item index="108" class="java.lang.String" itemvalue="llama-index-readers-file" />
+            <item index="109" class="java.lang.String" itemvalue="six" />
+            <item index="110" class="java.lang.String" itemvalue="identify" />
+            <item index="111" class="java.lang.String" itemvalue="types-cffi" />
+            <item index="112" class="java.lang.String" itemvalue="pytest" />
+            <item index="113" class="java.lang.String" itemvalue="parso" />
+            <item index="114" class="java.lang.String" itemvalue="tzdata" />
+            <item index="115" class="java.lang.String" itemvalue="ipython" />
+            <item index="116" class="java.lang.String" itemvalue="dill" />
+            <item index="117" class="java.lang.String" itemvalue="packaging" />
+            <item index="118" class="java.lang.String" itemvalue="types-redis" />
+            <item index="119" class="java.lang.String" itemvalue="llama-index-question-gen-openai" />
+            <item index="120" class="java.lang.String" itemvalue="tqdm" />
+            <item index="121" class="java.lang.String" itemvalue="lazy-object-proxy" />
+            <item index="122" class="java.lang.String" itemvalue="typing-inspect" />
+            <item index="123" class="java.lang.String" itemvalue="pillow" />
+            <item index="124" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="125" class="java.lang.String" itemvalue="llama-index-llms-openai" />
+            <item index="126" class="java.lang.String" itemvalue="aiosignal" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
